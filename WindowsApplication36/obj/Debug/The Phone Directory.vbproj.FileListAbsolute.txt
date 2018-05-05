@@ -1,0 +1,44 @@
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\bin\Debug\WindowsApplication36.exe.config
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\bin\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\bin\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\bin\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.Directory.resources
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.Resources.resources
+C:\Users\Kevin Jiang\Documents\Visual Studio 2013\Projects\WindowsApplication36\WindowsApplication36\obj\Debug\The Phone Directory.vbproj.GenerateResource.Cache
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\bin\Debug\WindowsApplication36.exe.config
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\bin\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\bin\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\bin\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.Directory.resources
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\obj\Debug\WindowsApplication36.Resources.resources
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36\WindowsApplication36\obj\Debug\The Phone Directory.vbproj.GenerateResource.Cache
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\bin\Debug\WindowsApplication36.exe.config
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\obj\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\obj\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\bin\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\bin\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\bin\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\obj\Debug\WindowsApplication36.Directory.resources
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\obj\Debug\WindowsApplication36.Resources.resources
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\obj\Debug\The Phone Directory.vbproj.GenerateResource.Cache
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy\WindowsApplication36\obj\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy - Copy\WindowsApplication36\bin\Debug\WindowsApplication36.exe.config
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy - Copy\WindowsApplication36\obj\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy - Copy\WindowsApplication36\obj\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Desktop\WindowsApplication36 - Copy - Copy\WindowsApplication36\obj\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\bin\Debug\WindowsApplication36.exe.config
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\obj\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\obj\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\obj\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\bin\Debug\WindowsApplication36.exe
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\bin\Debug\WindowsApplication36.pdb
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\bin\Debug\WindowsApplication36.xml
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\obj\Debug\WindowsApplication36.Directory.resources
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\obj\Debug\WindowsApplication36.Resources.resources
+C:\Users\Kevin Jiang\Desktop\The Phone Directory\WindowsApplication36\obj\Debug\The Phone Directory.vbproj.GenerateResource.Cache
